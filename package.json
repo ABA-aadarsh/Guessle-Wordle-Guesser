@@ -1,5 +1,6 @@
 {
-  "name": "wordle-cracker-2",
+  "name": "guessle",
+  "description": "Guessle - Wordle Cracker. Solves wordle problems.",
   "module": "index.ts",
   "type": "module",
   "private": true,
